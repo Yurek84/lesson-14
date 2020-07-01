@@ -1,4 +1,7 @@
-
+//Задача 9
+var arr = ['a', 'b', 'c'];
+var newLength = arr.push('1', '2', '3');
+console.log(arr);
 
 //Задача 10
 var arr = ['1', '2', '3'];
